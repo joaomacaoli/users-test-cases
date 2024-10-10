@@ -1,0 +1,18 @@
+{
+  "valid_credentials": {
+    "email": "user@example.com",
+    "password": "validpassword"
+  },
+  "invalid_credentials": {
+    "email": "user@example.com",
+    "password": "wrongpassword"
+  },
+  "non_registered_email": {
+    "email": "nonuser@example.com",
+    "password": "validpassword"
+  },
+  "empty_fields": {
+    "email": "",
+    "password": ""
+  }
+}
